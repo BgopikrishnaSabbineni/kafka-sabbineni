@@ -1,4 +1,4 @@
-package edu.nwmissouri.isl.professorcase.kafka;
+package edu.nwmissouri.isl.sabbineni.kafka;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
